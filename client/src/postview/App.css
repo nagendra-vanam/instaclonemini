@@ -1,0 +1,87 @@
+.page {
+  margin: 50px;
+  margin-top: 30px;
+  border: 1px solid gray;
+
+  border-radius: 10px;
+  background-image: url(https://images.unsplash.com/photo-1547104442-044448b73426?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80);
+}
+.header {
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.cam {
+  margin-top: 20px;
+  color: rgb(95, 82, 82);
+}
+
+.clone {
+  font-family: "Sofia", sans-serif;
+  margin: 0;
+  font-weight: 400;
+  color: green;
+  font-size: 30px;
+}
+.fa-instagram {
+  color: orange;
+  margin-right: 8px;
+}
+.instapage {
+  margin-top: 15px;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.line {
+  border-bottom: 1px solid black;
+}
+.container {
+  width: 400px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+img {
+  width: 100%;
+  height: 40vh;
+}
+.name {
+  font-weight: bold;
+}
+.location {
+  color: gray;
+}
+.topcontainer {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin: 5px;
+}
+.dots {
+  margin-top: 10px;
+}
+.bottomcontainer {
+  display: flex;
+  justify-content: space-between;
+}
+.date {
+  color: gray;
+  margin-right: 10px;
+}
+.likes {
+  margin-left: 10px;
+  color: gray;
+}
+.heart {
+  margin: 5px;
+}
+.likes {
+  color: gray;
+  margin: 5px;
+}
+.description {
+  font-weight: bold;
+  padding-bottom: 10px;
+  margin-left: 5px;
+}

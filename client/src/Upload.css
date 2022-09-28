@@ -1,0 +1,46 @@
+.uploadcontainer1 {
+  width: 600px;
+  height: 250px;
+  margin-top: 50px;
+  border: 2px solid black;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 250px;
+  padding: 50px;
+  box-sizing: border-box;
+  padding-top: 31px;
+  padding-bottom: 25px;
+}
+.file1 {
+  margin-bottom: 29px;
+  height: 32px;
+}
+.Location1 {
+  width: 200px;
+  margin-left: 96px;
+  height: 32px;
+  padding: 1px;
+  box-sizing: border-box;
+  margin-bottom: 29px;
+}
+.author1 {
+  width: 200px;
+  height: 32px;
+  padding: 1px;
+  box-sizing: border-box;
+}
+.description1 {
+  width: 500px;
+  height: 32px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 1px;
+  margin-bottom: 29px;
+}
+.button1 {
+  margin-left: 210px;
+  width: 80px;
+  height: 26px;
+}
